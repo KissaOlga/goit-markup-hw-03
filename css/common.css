@@ -71,6 +71,8 @@
 
 /* Adress-nav */
 .adress-nav {
+  display: flex;
+  margin-left: auto;
   font-family: Roboto;
   font-style: normal;
   font-weight: 500;
